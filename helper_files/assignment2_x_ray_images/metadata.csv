@@ -1,0 +1,174 @@
+patientid,finding,survival,intubated,intubation_present,went_icu,in_icu,needed_supplemental_O2,extubated,temperature,pO2_saturation,leukocyte_count,neutrophil_count,lymphocyte_count,view,modality,date,location
+1,Viral Pneumonia,Y,,,,,Y,,,,,,,PA,X-ray,22-Jan-20,"Cho Ray Hospital, Ho Chi Minh City, Vietnam"
+2,Viral Pneumonia,Y,,,,,Y,,,,,,,PA,X-ray,25-Jan-20,"Cho Ray Hospital, Ho Chi Minh City, Vietnam"
+3,Viral Pneumonia,Y,,,,,Y,,,,,,,PA,X-ray,27-Jan-20,"Cho Ray Hospital, Ho Chi Minh City, Vietnam"
+4,Viral Pneumonia,Y,,,,,Y,,,,,,,PA,X-ray,28-Jan-20,"Cho Ray Hospital, Ho Chi Minh City, Vietnam"
+5,Viral Pneumonia,,,,,,N,,,,,,,PA,X-ray,25-Jan-20,"Changhua Christian Hospital, Changhua City, Taiwan "
+6,Viral Pneumonia,,,,,,N,,,,,,,PA,X-ray,30-Jan-20,"Changhua Christian Hospital, Changhua City, Taiwan "
+7,Normal Pneunmonia,,Y,Y,,,,,,,,,,PA,X-ray,2017,
+8,Viral Pneumonia,,Y,Y,Y,,,,,,,,,PA,X-ray,6-Jan-20,"Wuhan Jinyintan Hospital, Wuhan, Hubei Province, China"
+9,Viral Pneumonia,,Y,Y,Y,,,,,,,,,PA,X-ray,10-Jan-20,"Wuhan Jinyintan Hospital, Wuhan, Hubei Province, China"
+10,Normal Pneunmonia,N,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+11,Normal Pneunmonia,N,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+12,Normal Pneunmonia,N,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+13,Normal Pneunmonia,Y,,,,,,,,,,,,PA,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+14,Normal Pneunmonia,Y,,,,,,,,,,,,PA,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+15,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+16,Normal Pneunmonia,,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+17,Normal Pneunmonia,,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+18,Normal Pneunmonia,N,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+19,Normal Pneunmonia,N,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+20,Normal Pneunmonia,N,,,,,,,,,,,,AP,X-ray,2004,"Mount Sinai Hospital, Toronto, Ontario, Canada"
+21,Viral Pneumonia,Y,,,,,,,38.6,97,7.4,,,PA,X-ray,2020,"Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada"
+22,Viral Pneumonia,Y,,,,,,,39.6,,2.88,,0.9,PA,X-ray,1-Jan-20,"Tongji Medical College, Wuhan, Hubei Province, China"
+23,Viral Pneumonia,Y,,,,,,,37.2,96,,,,PA,X-ray,19-Jan-20,"Snohomish County, Washington, USA"
+24,Viral Pneumonia,Y,,,,,,,,,,,,L,X-ray,19-Jan-20,"Snohomish County, Washington, USA"
+25,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,22-Jan-20,"Snohomish County, Washington, USA"
+26,Viral Pneumonia,Y,,,,,,,,,,,,L,X-ray,22-Jan-20,"Snohomish County, Washington, USA"
+27,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,24-Jan-20,"Snohomish County, Washington, USA"
+28,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,26-Jan-20,"Snohomish County, Washington, USA"
+29,Viral Pneumonia,Y,,,,,,,,,,,,L,X-ray,26-Jan-20,"Snohomish County, Washington, USA"
+30,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,
+31,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,
+32,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,
+33,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,
+34,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,2020,"Sichuan Provincial People’s Hospital, Chengdu, China"
+35,Viral Pneumonia,Y,,,,,,,,,,,,AP,X-ray,25-Jan-20,"Myongji Hospital, Goyang, Korea"
+36,Viral Pneumonia,Y,,,,,,,,,,,,AP,X-ray,31-Jan-20,"Myongji Hospital, Goyang, Korea"
+37,Viral Pneumonia,Y,,,,,,,,,,,,AP,X-ray,6-Feb-20,"Myongji Hospital, Goyang, Korea"
+38,Viral Pneumonia,Y,,,,,,,,,,,,Axial,CT,31-Jan-20,"Myongji Hospital, Goyang, Korea"
+39,Viral Pneumonia,Y,,,,,,,,,,,,Axial,CT,6-Feb-20,"Myongji Hospital, Goyang, Korea"
+40,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,"Jinling Hospital, Medical School of Nanjing University, Nanjing, Jiangsu, China"
+41,Viral Pneumonia,Y,,,,,,,36.4,91,,,,AP,X-ray,20-Jan-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+42,Viral Pneumonia,Y,,,,,,,,,,,,AP,X-ray,23-Jan-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+43,Viral Pneumonia,Y,,,,,,,,,,,,AP,X-ray,27-Jan-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+44,Viral Pneumonia,Y,,,,,,,,,,,,AP,X-ray,4-Feb-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+45,Viral Pneumonia,Y,,,,,,,,,,,,Axial,CT,6-Feb-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+46,Viral Pneumonia,Y,,,,,,,,,,,,Axial,CT,6-Feb-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+47,Viral Pneumonia,Y,,,,,,,,,,,,Axial,CT,6-Feb-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+48,Viral Pneumonia,Y,,,,,,,,,,,,Axial,CT,6-Feb-20,"Taoyuan General Hospital, Taoyuan, Taiwan"
+49,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,"Jönköping, Sweden"
+50,Viral Pneumonia,,,,,,,,,,,,,L,X-ray,2020,"Jönköping, Sweden"
+51,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,"Macao, China"
+52,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,"Riccione, Italy"
+53,Viral Pneumonia,,,,,,,,,,,,,L,X-ray,2020,"Riccione, Italy"
+54,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,2020,"Riccione, Italy"
+55,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,"Ospedale Santo Spirito. Rome, Italy"
+56,Viral Pneumonia,,,,,,,,,,,,,L,X-ray,2020,"Ospedale Santo Spirito. Rome, Italy"
+57,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,2020,"Ospedale Santo Spirito. Rome, Italy"
+58,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,"Ospedale Santo Spirito. Rome, Italy"
+59,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,26-Feb-19,"Royal Brisbane and Women's Hospital, Brisbane, Australia"
+60,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,10-May-15,"Melbourne, Australia"
+61,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,5-Jun-17,"Royal Brisbane and Women's Hospital, Brisbane, Australia"
+62,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,4-May-10,"Melbourne, Australia"
+63,Normal Pneunmonia,,,,,,,,,,,,,L,X-ray,4-May-10,"Melbourne, Australia"
+64,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,9-May-19,"Laniado Hospital, Netanya, Israel"
+65,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,8-Oct-10,"Melbourne, Australia"
+66,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,2014,"Melbourne, Australia"
+67,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,2014,"Melbourne, Australia"
+68,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,2014,"Melbourne, Australia"
+69,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,2014,"Melbourne, Australia"
+70,Viral Pneumonia,,,,,,,,,,,,,AP,X-ray,10-Mar-20,Italy
+71,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,10-Mar-20,Italy
+72,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,10-Mar-20,Italy
+73,Viral Pneumonia,,,,,,,,,97,,,,PA,X-ray,3-Mar-20,Italy
+74,Viral Pneumonia,,,,,,,,,97,,,,L,X-ray,3-Mar-20,Italy
+75,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,3-Mar-20,Italy
+76,Viral Pneumonia,,,,,,,,,,,,,AP,X-ray,4-Mar-20,Italy
+77,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,4-Mar-20,Italy
+78,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,4-Mar-20,Italy
+79,Viral Pneumonia,,,,,,,,,,,,,AP,X-ray,4-Mar-20,Italy
+80,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,4-Mar-20,Italy
+81,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,4-Mar-20,Italy
+82,Viral Pneumonia,,,,,,,,,61.3,,,,PA,X-ray,2020,Italy
+83,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,Italy
+84,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,2020,Italy
+85,Viral Pneumonia,,Y,N,,,,,37.5,88,,,,PA,X-ray,3/3/2020,Italy
+86,Viral Pneumonia,,Y,Y,,,,,,,,,,PA,X-ray,3/7/2020,Italy
+87,Normal Pneunmonia,Y,N,N,,,,,37.8,98,,,,PA,X-ray,2019,Italy
+88,Normal Pneunmonia,Y,N,N,,,,,37.8,98,,,,Axial,CT,2019,Italy
+89,Viral Pneumonia,,,,,,,,38,93,,,,PA,X-ray,2020,Italy
+90,Viral Pneumonia,,,,,,,,38,93,,,,Axial,CT,2020,Italy
+91,Viral Pneumonia,Y,N,N,,,,,,98,,,,PA,X-ray,2020,Italy
+92,Viral Pneumonia,,,,,,,,37.8,97,,,,PA,X-ray,2020,Italy
+93,Viral Pneumonia,,,,,,,,36.5,96,,,,PA,X-ray,2020,Italy
+94,Viral Pneumonia,,,,,,,,,92,,,,PA,X-ray,2020,Italy
+95,Viral Pneumonia,N,,,,,,,,50,,,,PA,X-ray,2020,Italy
+96,Viral Pneumonia,,,,,,,,,97,,,,PA,X-ray,2020,Italy
+97,Viral Pneumonia,,,,,,,,,70,,,,PA,X-ray,2020,Italy
+98,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,Italy
+99,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,Italy
+100,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,Italy
+101,Viral Pneumonia,,,,,,,,,,,,,AP,X-ray,2020,Italy
+102,Viral Pneumonia,Y,,,,,,,39,95,,,,PA,X-ray,4-Mar-20,Italy
+103,Viral Pneumonia,Y,,,,,,,39,95,,,,L,X-ray,4-Mar-20,Italy
+104,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,10-Mar-20,Italy
+105,Viral Pneumonia,Y,,,,,,,,,,,,L,X-ray,10-Mar-20,Italy
+106,Viral Pneumonia,,,,,,,,36.9,92,,,,AP,X-ray,5-Mar-20,Italy
+107,Viral Pneumonia,,,,,,,,,,,,,AP Supine,X-ray,2020,Italy
+108,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,Italy
+109,Viral Pneumonia,,,,,,,,95,,,,,AP,X-ray,7-Mar-20,Italy
+110,Viral Pneumonia,,,,,,,,,,6.84,,,AP Supine,X-ray,5-Mar-20,Italy
+111,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,12-Jan-20,"Hospital of Wuhan University, Wuhan, China"
+112,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,22-Jan-20,"Hospital of Wuhan University, Wuhan, China"
+113,Viral Pneumonia,N,Y,N,,,,,,,,,,AP Supine,X-ray,12-Jan,"Hospital of Wuhan University, Wuhan, China"
+114,Viral Pneumonia,N,Y,Y,,,,,,,,,,AP Supine,X-ray,13-Jan,"Hospital of Wuhan University, Wuhan, China"
+115,Viral Pneumonia,N,Y,Y,,,,,,,,,,AP Supine,X-ray,20-Jan,"Hospital of Wuhan University, Wuhan, China"
+116,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,5-Feb-20,Taiwan
+117,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,18-Feb-20,Taiwan
+118,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,China
+119,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,China
+120,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,China
+121,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,
+122,Viral Pneumonia,,,,,,,,,,,,,Coronal,CT,2020,
+123,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,2020,
+124,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,
+125,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,2020,
+126,Viral Pneumonia,,,,,,,,,,,,,Coronal,CT,2020,
+127,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,
+128,Viral Pneumonia,,,,,,,,,,,,,Coronal,CT,2020,
+129,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,2020,
+130,Viral Pneumonia,,,,,,,,,,,,,Axial,CT,2020,
+131,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,16-Feb-20,Taiwan
+132,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,21-Feb-20,Taiwan
+133,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,17-Feb-20,Taiwan
+134,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,21-Feb-20,Taiwan
+135,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,24-Jan-20,"Thanh Hóa, Vietnam"
+136,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,28-Jan-20,"Thanh Hóa, Vietnam"
+137,Viral Pneumonia,,,,,,,,37.5,,6.37,,,AP Supine,X-ray,2-Feb-20,Italy
+138,Viral Pneumonia,,,,,,,,,84,,,,PA,X-ray,2/29/2020,Italy
+139,Viral Pneumonia,,,,,,,,,84,,,,L,X-ray,2/29/2020,Italy
+140,Viral Pneumonia,Y,Y,Y,,,,Y,,82,11.2,,,AP Supine,X-ray,3-Mar-20,Italy
+141,Viral Pneumonia,Y,Y,Y,,,,Y,,,,,,AP Supine,X-ray,5-Mar-20,Italy
+142,Viral Pneumonia,Y,Y,Y,,,,Y,,,,,,AP Supine,X-ray,12-Mar-20,Italy
+143,Viral Pneumonia,,,,,,,,,,,,0.8,AP Supine,X-ray,14-Mar-20,Italy
+144,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,2020,"The Royal Melbourne Hospital, Melbourne, Australia"
+145,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,2020,"The Royal Melbourne Hospital, Melbourne, Australia"
+146,Viral Pneumonia,,,,,,,,,,,,,AP,X-ray,2020,
+147,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,"Laniado Hospital, Netanya, Israel"
+148,Viral Pneumonia,Y,,,,,,,,,,,,PA,X-ray,2020,"Jiangxi Provincial People's Hospital, Nanchang, China"
+149,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,Italy
+150,Viral Pneumonia,,,,,,,,,,,,,L,X-ray,2020,Italy
+151,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,2020,Italy
+152,Viral Pneumonia,,,,,,,,,,,,,AP,X-ray,2020,
+153,Viral Pneumonia,Y,Y,Y,,,,,,,,,,PA,X-ray,2020,
+154,Viral Pneumonia,,N,N,,,,,,,,,,PA,X-ray,2020,
+155,Viral Pneumonia,,,,,,,,,,,,,AP Supine,X-ray,2020,Italy
+156,Viral Pneumonia,,,,,,,,40,,,,,AP Supine,X-ray,2020,Italy
+157,Viral Pneumonia,,,,,,,,,,,,,AP Supine,X-ray,3-Mar-20,Italy
+158,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,3/16/2020,Italy
+159,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,3/6/2020,Italy
+160,Viral Pneumonia,,,,,,,,,,,,,PA,X-ray,3/16/2020,Italy
+161,Normal Pneunmonia,Y,,,,,,,,,,,,PA,X-ray,2011,
+162,Normal Pneunmonia,Y,,,,,,,,,,,,PA,X-ray,2011,
+163,Normal Pneunmonia,Y,,,,,,,,,,,,PA,X-ray,2011,
+164,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,2016,
+165,Normal Pneunmonia,,,,,,,,,,,,,L,X-ray,2016,
+166,Normal Pneunmonia,,,,,,,,,,,,,PA,X-ray,2018,
+167,Normal Pneunmonia,,,,,,,,,,,,,L,X-ray,2018,
+168,Normal Pneunmonia,Y,,,,,,,,,,,,PA,X-ray,2011,
+169,Normal Pneunmonia,Y,,,,,,,,,,,,L,X-ray,2011,
+170,Normal Pneunmonia,Y,,,,,,,,,,,,AP Supine,X-ray,2018,
+171,Normal Pneunmonia,Y,,,,,,,,,,,,AP Supine,X-ray,2018,
+172,Normal Pneunmonia,Y,,,,,,,,,,,,AP Supine,X-ray,2018,
+173,Normal Pneunmonia,Y,,,,,,,,,,,,AP Supine,X-ray,2018,
